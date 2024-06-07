@@ -8,7 +8,7 @@
             "Discord": "lipcu_"
         },
         "Role": "Admin",
-        "Activated": true
+        "Status": "true"
     },
     "4C4C4544-0052-4C10-8033-B8C04F445231": {
         "User": "daongochuy2008",
@@ -19,6 +19,6 @@
             "Discord": "daongochuy2008"
         },
         "Role": "Admin",
-        "Activated": true
+        "Status": "true"
     }
 }
