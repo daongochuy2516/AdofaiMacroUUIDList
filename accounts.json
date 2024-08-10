@@ -20,16 +20,5 @@
         },
         "Role": "Admin",
         "Status": "true"
-    },
-        "4C4C4544-0052-5010-8052-C4C04F513132": {
-        "User": "daongochuy2008 - 2nd pc",
-        "Account": {
-            "Bilibili": null,
-            "QQ": null,
-            "Youtube": "https://www.youtube.com/@daongochuy2008",
-            "Discord": "daongochuy2008"
-        },
-        "Role": "Admin",
-        "Status": "true"
     }
 }
