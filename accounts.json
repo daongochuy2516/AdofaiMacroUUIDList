@@ -20,5 +20,16 @@
         },
         "Role": "Admin",
         "Status": "true"
+    },
+    "1234abcd": {
+        "User": "daongochuy2008 - net269",
+        "Account": {
+            "Bilibili": null,
+            "QQ": null,
+            "Youtube": "https://www.youtube.com/@daongochuy2008",
+            "Discord": "daongochuy2008"
+        },
+        "Role": "Admin2",
+        "Status": "false"
     }
 }
