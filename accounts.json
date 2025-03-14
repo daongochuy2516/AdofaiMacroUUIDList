@@ -31,5 +31,16 @@
         },
         "Role": "Admin2",
         "Status": "true"
+    },
+    "none": {
+        "User": "strawbisclingy",
+        "Account": {
+            "Bilibili": null,
+            "QQ": null,
+            "Youtube": "https://www.youtube.com/channel/UCgUQDuFbcvhzovXhPhblVeA",
+            "Discord": "strawbisclingy"
+        },
+        "Role": "User",
+        "Status": "false"
     }
 }
