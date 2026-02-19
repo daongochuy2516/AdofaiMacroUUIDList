@@ -10,13 +10,13 @@
         "Role": "Admin",
         "Status": "true"
     },
-    "936FD98F-7E49-4B39-A5A6-F6A089DA9E6E": {
+    "A89AFC8E-C706-DB1D-AEE6-D843AE6D87C8": {
         "User": "daongochuy2008",
         "Account": {
             "Bilibili": null,
             "QQ": null,
             "Youtube": "https://www.youtube.com/@daongochuy2008",
-            "Discord": "daongochuy2008"
+            "Discord": "daongochuy2516"
         },
         "Role": "Admin",
         "Status": "true"
@@ -44,5 +44,6 @@
         "Status": "true"
     }
 }
+
 
 
